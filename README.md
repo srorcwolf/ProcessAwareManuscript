@@ -10,7 +10,7 @@ The code and benchmark data associated with this study are currently being organ
 
 ## Data availability
 
-The benchmark data generated in this study will be made publicly available through this repository. Dataset documentation and release information will be provided together with the public release.
+The benchmark data generated and analysed during the current study are available from the corresponding author upon reasonable request.
 
 ## Code availability
 
