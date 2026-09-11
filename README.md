@@ -6,12 +6,12 @@ This repository accompanies the manuscript:
 
 ## Repository status
 
-The code and benchmark data associated with this study are currently being organised and prepared for public release. They will be progressively released through this repository.
+This repository is reserved for the public release associated with this study. The complete code and related materials will be released here upon publication of the manuscript.
 
 ## Data availability
 
-The benchmark data generated and analysed during the current study are available from the corresponding author upon reasonable request.
+The degradation-aware manuscript dataset generated and analysed during the current study will be made publicly available through Zenodo upon publication, with the corresponding DOI provided at that time.
 
 ## Code availability
 
-The code used for data generation, multimodal evaluation, OCR evaluation, fragment-relation prediction, and page reconstruction will be made publicly available through this repository.
+The code associated with this study will be made publicly available through this repository upon publication.
